@@ -1,0 +1,11 @@
+2018-05-06T16:40:47.466-0700	INFO	instance/beat.go:501	Home path: [c:\Dexter\Practice\gosqlbeat\src\sqlbeat] Config path: [c:\Dexter\Practice\gosqlbeat\src\sqlbeat] Data path: [c:\Dexter\Practice\gosqlbeat\src\sqlbeat\data] Logs path: [c:\Dexter\Practice\gosqlbeat\src\sqlbeat\logs]
+2018-05-06T16:40:47.469-0700	INFO	instance/beat.go:508	Beat UUID: 93758966-00e5-4eb6-a6e8-b7942e1da699
+2018-05-06T16:40:47.469-0700	INFO	[beat]	instance/beat.go:725	Beat info	{"system_info": {"beat": {"path": {"config": "c:\\Dexter\\Practice\\gosqlbeat\\src\\sqlbeat", "data": "c:\\Dexter\\Practice\\gosqlbeat\\src\\sqlbeat\\data", "home": "c:\\Dexter\\Practice\\gosqlbeat\\src\\sqlbeat", "logs": "c:\\Dexter\\Practice\\gosqlbeat\\src\\sqlbeat\\logs"}, "type": "sqlbeat", "uuid": "93758966-00e5-4eb6-a6e8-b7942e1da699"}}}
+2018-05-06T16:40:47.469-0700	INFO	[beat]	instance/beat.go:734	Build info	{"system_info": {"build": {"commit": "unknown", "libbeat": "7.0.0-alpha1", "time": "1754-08-30T22:43:41.128Z", "version": "7.0.0-alpha1"}}}
+2018-05-06T16:40:47.469-0700	INFO	[beat]	instance/beat.go:737	Go runtime info	{"system_info": {"go": {"os":"windows","arch":"amd64","max_procs":8,"version":"go1.10.1"}}}
+2018-05-06T16:40:47.489-0700	INFO	instance/beat.go:234	Setup Beat: sqlbeat; Version: 7.0.0-alpha1
+2018-05-06T16:40:47.490-0700	INFO	elasticsearch/client.go:145	Elasticsearch url: http://127.0.0.1:9200
+2018-05-06T16:40:47.490-0700	INFO	pipeline/module.go:76	Beat name: VimalKumarPC
+2018-05-06T16:40:50.674-0700	INFO	instance/beat.go:324	sqlbeat start running.
+2018-05-06T16:40:50.674-0700	INFO	beater/sqlbeat.go:39	sqlbeat is running! Hit CTRL-C to stop it.
+2018-05-06T16:40:50.675-0700	INFO	[monitoring]	log/log.go:97	Starting metrics logging every 30s

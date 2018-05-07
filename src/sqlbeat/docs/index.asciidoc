@@ -1,0 +1,5 @@
+= Sqlbeat Docs
+
+Welcome to the Sqlbeat documentation.
+
+
